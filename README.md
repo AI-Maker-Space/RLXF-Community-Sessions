@@ -10,3 +10,5 @@
 
 [TRL_HuggingFace](https://huggingface.co/docs/trl/main/en/index)
 
+[illustrated_RLHF](https://huggingface.co/blog/rlhf)
+
