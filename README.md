@@ -22,3 +22,6 @@
 
 [illustrated_RLHF](https://huggingface.co/blog/rlhf)
 
+## Presentation stack
+
+[canva_presentation](https://www.canva.com/design/DAFt45GUO8w/9mgzJR-LndkIkTJ767hcVw/edit?utm_content=DAFt45GUO8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
