@@ -1,0 +1,6 @@
+trl
+bitsandbytes
+transformers
+peft
+accelerate
+sentencepiece 
