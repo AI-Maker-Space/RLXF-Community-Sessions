@@ -13,7 +13,7 @@ valid1(33k) - for fine tuning the base model;
 valid2(50k) - for the rewards model
 
 ## Model
-We will be using the T5-base model (220M params): Being an encoder-decoder, seems a better option for summarization.
+We will be using the [T5-base](https://huggingface.co/t5-base) model (220M params): Being an encoder-decoder, seems a better option for summarization.
 
 ## References
 
