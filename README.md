@@ -13,8 +13,20 @@
 * valid2(50k) - for the rewards model
 
 ## Model
-* The target model: We will be using the [T5-base](https://huggingface.co/t5-base) model (220M params): Being an encoder-decoder, seems a better option for summarization.
-* The rewards model: We will be using Bert, as an encoder is more appropriate to produce a reward or a penalty based on the input.
+
+### Base (supervised-fine-tuned)  model:
+We will be using the [T5-base](https://huggingface.co/t5-base) model (220M params): Being an encoder-decoder, seems a better option for summarization.
+Check the notebook on how we applied SFT on this model.
+
+Here are the trained weights: [base_SFT_model](PanoEvJ/summarization_finetuned_t5_base)
+
+### Target (policy) model
+
+The target model we will be the same as the Base (fine-tuned): [T5-base](https://huggingface.co/t5-base) model (220M params): Being an encoder-decoder, seems a better option for summarization.
+
+### Rewards model
+  
+The rewards model: We will be using Bert, as an encoder is more appropriate to produce a reward or a penalty based on the input.
 
 ## References
 
