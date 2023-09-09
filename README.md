@@ -28,3 +28,9 @@
 
 ## Reward Model
 Weights at: https://drive.google.com/drive/folders/1BKtlHKiv60unMdaXt5IEBnOgzF_6cSux?usp=sharing
+
+Weights should be downloaded to your local computer from this link and once there they can be used from the notebook.  The notebook has a couple of lines to load the model:
+
+model = AutoModelForSequenceClassification.from_pretrained("./model_bert_hf_experiment2/")
+
+tokenizer = AutoTokenizer.from_pretrained("./model_bert_hf_experiment2/")
