@@ -18,7 +18,7 @@
 We will be using the [T5-base](https://huggingface.co/t5-base) model (220M params): Being an encoder-decoder, seems a better option for summarization.
 Check the notebook on how we applied SFT on this model.
 
-Here are the trained weights: [base_SFT_model](PanoEvJ/summarization_finetuned_t5_base_4bit)
+Here are the trained weights: [T5_base_SFT_QLoRA_4bit](https://huggingface.co/PanoEvJ/summarization_finetuned_t5_base_4bit)
 
 ### Policy (target) model
 
