@@ -20,7 +20,7 @@ Check the notebook on how we applied SFT on this model.
 
 Here are the trained weights: 
 - [4-bit model trained with QLoRA](https://huggingface.co/PanoEvJ/summarization_finetuned_t5_base_4bit)
-- [8-bit model](https://huggingface.co/PanoEvJ/T5_base_SFT_summarization)
+- [full model](https://huggingface.co/PanoEvJ/T5_base_SFT_summarization)
 
 ### Policy (target) model
 
