@@ -40,6 +40,10 @@ model = AutoModelForSequenceClassification.from_pretrained("./model_bert_hf_expe
 
 tokenizer = AutoTokenizer.from_pretrained("./model_bert_hf_experiment2/")
 
+## PPO
+
+[notebook](https://colab.research.google.com/github/PanoEvJ/summarization_RLHF/blob/main/rlhf_PPO.ipynb#scrollTo=q6KBUq04RZ6X)
+
 
 ## References
 
