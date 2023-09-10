@@ -29,7 +29,10 @@ The target model we will be the same as the Base (fine-tuned): [T5-base](https:/
 ### Rewards model
   
 The rewards model: We will be using Bert, as an encoder is more appropriate to produce a reward or a penalty based on the input.
-Weights at: https://drive.google.com/drive/folders/1BKtlHKiv60unMdaXt5IEBnOgzF_6cSux?usp=sharing
+
+Weights
+* Weights in HF: JuanKO/rlhf
+* Weights at: https://drive.google.com/drive/folders/1BKtlHKiv60unMdaXt5IEBnOgzF_6cSux?usp=sharing
 
 Weights should be downloaded to your local computer from this link and once there they can be used from the notebook.  The notebook has a couple of lines to load the model:
 
